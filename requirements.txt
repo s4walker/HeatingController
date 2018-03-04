@@ -1,0 +1,2 @@
+# Required packages to develop the project
+nose==1.3.7
