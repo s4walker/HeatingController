@@ -12,6 +12,7 @@ Welcome to Heating Controller's documentation!
 
    api
    test
+   dev_guide
 
 
 
